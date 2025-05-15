@@ -3,6 +3,4 @@ service:
   student:
     id: "202033533" 
     name: "Kim Hobeom" 
-logging:
-  level:
-    root: WARN
+
